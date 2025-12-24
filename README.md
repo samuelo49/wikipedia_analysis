@@ -1,5 +1,11 @@
 # Wikipedia Analysis (Word Frequencies + Word Cloud)
 
+## Tech stack
+
+- **Python** 🐍
+- **FastAPI** ⚡️
+- **React** ⚛️
+
 I built this project to explore how quickly I can turn a small analysis idea into a working web app by pairing with an agent inside Windsurf.
 
 At a high level, this app:
